@@ -50,6 +50,10 @@ osTicket has two primary interfaces:
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
 
 <h2>3. Configuring Roles (Permissions Grouping)</h2>
 <p>
