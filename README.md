@@ -17,34 +17,165 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Access osTicket
+- Agent Panel vs. Admin Panel
+- Configuring Roles, Departments, and Teams 
+- Allowing User Ticket Creation
+- Configuring Agents and Users
+- Configuring SLAs and Help Topics
 
-<h2>Configuration Steps</h2>
+<h1>Configuration Steps</h1>
 
+<h2>1. Accessing osTicket</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Before I could configure osTicket, I had to access the respective panels:
+
+- Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php
+- End-User Ticket Portal: http://localhost/osTicket
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/r6k75l3.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
+<h2>2. Understanding the Agent Panel vs. Admin Panel</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+osTicket has two primary interfaces:
+
+- Admin Panel: For configuring settings, roles, and permissions.
+- Agent Panel: Where support staff manage tickets and interact with users.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
+<h2>3. Configuring Roles (Permissions Grouping)</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Roles help define different permission levels for agents.
+
+- Navigate to Admin Panel → Agents → Roles
+- Example Role:
+    - Supreme Admin (Full access to settings and tickets)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
+
+<h2>4. Configuring Departments (Ticket Visibility & Assignment)</h2>
+<p>
+Departments help categorize tickets based on expertise.
+
+- Go to Admin Panel → Agents → Departments
+- Example Departments:
+    - Help Desk
+    - SysAdmins
+    - Networking
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+
+<h2>5. Configuring Teams (Cross-Department Collaboration)</h2>
+<p>
+Teams allow agents from different departments to collaborate.
+  
+- Go to Admin Panel → Agents → Teams
+- Example Team:
+    - Online Banking (Pulls agents from multiple departments)
+
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+
+<h2>6. Allowing User Ticket Creation</h2>
+<p>
+By default, osTicket allows ticket creation by anyone. You can restrict this by enabling user registration.
+
+- Navigate to Admin Panel → Settings → User Settings
+- Uncheck "Unregistered users can create tickets" to require login for ticket creation.
+
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+
+<h2>7. Configuring Agents (Support Staff)</h2>
+<p>
+Agents handle tickets and are assigned to specific departments.
+
+- Navigate to Admin Panel → Agents → Add New
+- Example Agents:
+    - Sally (SysAdmins)
+    - Kyle (Support)
+
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+
+<h2>8. Configuring Users (Customers)</h2>
+<p>
+Users are the customers who submit tickets.
+
+- Navigate to Agent Panel → Users → Add New
+- Example Users:
+    - Karen
+    - Bobby
+
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+
+<h2>9. Configuring SLAs (Service Level Agreements)</h2>
+<p>
+SLAs define response and resolution timeframes.
+
+- Go to Admin Panel → Manage → SLA
+- Example SLA Policies:
+    - Sev-A: 1-hour grace period, 24/7 support
+    - Sev-B: 4-hour grace period, 24/7 support
+    - Sev-C: 8-hour grace period, business hours
+
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+
+<h2>10. Configuring Help Topics (User Ticket Categorization)</h2>
+<p>
+Help topics simplify ticket submission by categorizing issues.
+
+- Navigate to Admin Panel → Manage → Help Topics
+- Example Topics:
+    - Business Critical Outage
+    - Personal Computer Issues
+    - Equipment Request
+    - Password Reset
+    - Other
+
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+
+<h1>My Conclusion</h1>
+<p>
+When A ticketing System (osTicket) is set up correctly it ensures a smooth and organized support experience. By configuring roles, departments, teams, agents, SLA's and help topics, an organization can strengthen its customer support efficiency.
+
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+</p>
+
