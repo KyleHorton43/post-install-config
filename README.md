@@ -47,7 +47,7 @@ osTicket has two primary interfaces:
 - Agent Panel: Where support staff manage tickets and interact with users.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <br />
 <p>
@@ -64,19 +64,19 @@ Roles help define different permission levels for agents.
     - Supreme Admin (Full access to settings and tickets)
 </p>
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/wo5GCws.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/P12TJf8.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/Mv2pWzm.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/C5CBbWd.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
