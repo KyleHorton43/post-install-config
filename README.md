@@ -51,7 +51,7 @@ osTicket has two primary interfaces:
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/w3unTwD.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -64,7 +64,19 @@ Roles help define different permission levels for agents.
     - Supreme Admin (Full access to settings and tickets)
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -79,7 +91,15 @@ Departments help categorize tickets based on expertise.
     - Networking
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/Lt5esAS.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/GxHjm7s.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/ReGgjq6.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -93,7 +113,11 @@ Teams allow agents from different departments to collaborate.
 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/KBQwdlc.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/Fa6hda2.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -106,7 +130,7 @@ By default, osTicket allows ticket creation by anyone. You can restrict this by 
 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/EgFbZnc.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -121,7 +145,27 @@ Agents handle tickets and are assigned to specific departments.
 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/v4tpl1t.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/syYBvAY.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/owdJXYg.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/81qmQ1Q.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/JJ9xIQL.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/gpGevCT.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -136,7 +180,15 @@ Users are the customers who submit tickets.
 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/U9HAbsS.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/a2OVJQi.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/joAwE9P.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -152,7 +204,15 @@ SLAs define response and resolution timeframes.
 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/nbOu6C4.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/8T7b8e3.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/T4G2hHv.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -170,7 +230,15 @@ Help topics simplify ticket submission by categorizing issues.
 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/nWAyqWZ.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/nCS0omN.png" height="80%" width="80%" alt=""/>
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/XwizR6h.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
@@ -179,7 +247,5 @@ Help topics simplify ticket submission by categorizing issues.
 When A ticketing System (osTicket) is set up correctly it ensures a smooth and organized support experience. By configuring roles, departments, teams, agents, SLA's and help topics, an organization can strengthen its customer support efficiency.
 
 </p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
-</p>
+
 
