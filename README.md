@@ -47,11 +47,11 @@ osTicket has two primary interfaces:
 - Agent Panel: Where support staff manage tickets and interact with users.
 </p>
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/w3unTwD.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/w3unTwD.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/2285yfg.png" height="80%" width="80%" alt=""/>
 </p>
 <br />
 
